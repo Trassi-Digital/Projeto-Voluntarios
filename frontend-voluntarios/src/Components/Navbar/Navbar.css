@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #A370F7;
+    padding: 20px;
+}
+
+
+
+.navbar-brand {
+    color: white
+}
+
+.navbar-brand:hover {
+    color: blueviolet;
+}
+
+#navbarNav {
+    color: white;
+    margin-left: 39%;
+}
+
+.nav-link:hover {
+    color: blueviolet;
+
+}
